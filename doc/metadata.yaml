@@ -24,6 +24,7 @@ images:
 - doc/html/AVRUSB01A_soubory/image004.png
 - doc/html/AVRUSB01A_soubory/image009.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
