@@ -1,4 +1,6 @@
-description: null
+description: Processor module for AVR software version of (Low Speed) USB. May be
+  used as ISP AVR programmer (with USBasp firmware), or USB to I2C convertor (with
+  i2c-tiny-usb firmware). Uses ATmega88 in TQFP32 package.
 github_branch: AVRUSB01A
 github_repo: AVRUSB01
 github_url: https://github.com/mlab-modules/AVRUSB01
